@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ### 😄 About Us :
-##  Microsoft Student Partner Tech Club at ASU is a non-profit student community program that promotes advanced technology through education, practice and innovation. It also provides students with both the needed technical and non-technical sessions which packs their lives with high level skills and supports their careers with opportunities..
+##  Microsoft Student Partner Tech Club at ASU is a non-profit student community program that promotes advanced technology through education, practice and innovation. It also provides students with both the needed technical and non-technical sessions which packs their lives with high level skills and supports their careers with opportunities.
 
 
 ### :hammer_and_wrench: Our Committees :
