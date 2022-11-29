@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://fv9-4.failiem.lv/thumb_show.php?i=xv788chyq&download_checksum=df7dbd82a98fe325eb76f0f0b99f836f07b4ce84&download_timestamp=1669750325)" width="100"/>
+  <img src="https://fv9-4.failiem.lv/thumb_show.php?i=xv788chyq&download_checksum=df7dbd82a98fe325eb76f0f0b99f836f07b4ce84&download_timestamp=1669750325)" width="400"/>
 </div>
-
+<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/company/msp-tech-club-asu-22/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <img src="https://pluralsight.imgix.net/paths/path-icons/graphic-design-8e71846112.png"  title="Media" alt="Media" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63018720eab248248ff88ee3_1bd86e15.png" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-file-globe-icon-svg-wikimedia-commons-21.png" title="Web" alt="Web" width="40" height="40"/>&nbsp;
+  <img src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-icon-with-png-and-vector-format-for-unlimited-22.png" title="Web" alt="Web" width="40" height="40"/>&nbsp;
   <img src="https://www.pngkit.com/png/full/128-1282285_logo-online-game-png-icon.png" title="Game" alt="Game" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" title="Machine Learning"  alt="Machine Learning" width="40" height="40"/>&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-256/data-science-46-1170621.png" title="Data Science" alt="Data Science" width="40" height="40"/>&nbsp;
