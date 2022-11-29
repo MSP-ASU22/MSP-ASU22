@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/ASUTC">
   <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>&nbsp;
-  <a href="[https://www.facebook.com/abdelrhman.yasser.39142/](https://www.instagram.com/msp_asu/)">
-  <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.instagram.com/msp_asu/">
+  <img src="https://img.shields.io/badge/instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>&nbsp;
 </div>
 
